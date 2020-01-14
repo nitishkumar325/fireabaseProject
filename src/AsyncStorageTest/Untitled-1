@@ -1,0 +1,5 @@
+--> Splash 
+--> Sign-up screen (Feild + Button) 
+--> Dashboard (Show sign up data) + Button [clear] --> Login 
+--> Login Screen (6 Feild Set) --> asycn set -> push
+--> New Dashboard (Show async data with good UI) 
