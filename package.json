@@ -36,7 +36,7 @@
     "react-native-instagram-login": "^1.1.2",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-progress": "^4.0.1",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^2.0.0-alpha.7",
     "react-native-simple-toast": "^1.0.0",
     "react-native-vector-icons": "^6.6.0",
